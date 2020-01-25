@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spintax", "src\Spintax\Spintax.csproj", "{FB344A06-D009-4C0B-A954-491F4A722DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB344A06-D009-4C0B-A954-491F4A722DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB344A06-D009-4C0B-A954-491F4A722DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB344A06-D009-4C0B-A954-491F4A722DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB344A06-D009-4C0B-A954-491F4A722DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82033B08-8C7F-4410-95C2-FBB84ABAAEEE}
+	EndGlobalSection
+EndGlobal
