@@ -1,6 +1,6 @@
 # Spintax
 
-A simple project to spin text in the 'spintax' format.
+A simple library to spin text in the 'spintax' format.
 
 ## Usage
 
