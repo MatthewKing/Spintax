@@ -1,7 +1,22 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <PackageId>Spintax</PackageId>
+    <Title>Spintax</Title>
+    <Description>Provides functionality spin text in the 'spintax' format.</Description>
+    <Authors>Matthew King</Authors>
+    <Copyright>Copyright Matthew King.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MatthewKing/Spintax</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MatthewKing/Spintax</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>spintax;syntax;spinner</PackageTags>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
 </Project>
